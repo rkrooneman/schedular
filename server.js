@@ -11,10 +11,10 @@ const mysql = require('mysql');
 // use your own parameters for database
 const mysqlConfig = {
 	"connectionLimit": 10,
-	"host": "localhost",
-	"user": "root",
-	"password": "",
-	"database": "scheduler_howto_node"
+	"host": "sql11.freemysqlhosting.net",
+	"user": "sql11400699",
+	"password": "m6L8mcHGjK",
+	"database": "sql11400699"
 };
 
 const helmet = require("helmet");
